@@ -3,3 +3,4 @@ def CparaF(celcius):
     print(f'A temperatura em Fahrenheit é de {fahrenheit:.0f}')
 
 CparaF(22)
+CparaF(34)
